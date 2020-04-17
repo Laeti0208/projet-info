@@ -30,7 +30,7 @@ namespace ConsoleApp1
             //Image.Miroir();
             //Image.Agrandir();
             //Image.Retrecir();
-            Image.PassageDeCouleuràNoirBlanc();
+            Image.PassageDeCouleuràNoirBlanc();                           //salut
             Image.From_Image_To_File("TEEEEEST.bmp");
             Process.Start("TEEEEEST.bmp");
             Console.ReadKey();
